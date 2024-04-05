@@ -28,7 +28,7 @@ eg: M with Married in the "MaritalStatus" column,
 Five pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between Bike Purchase and other factors such as Average Income, commute distance, Profession Home ownership and age.
 
 Below is a snippet of the pivot tables in Excel.
-![Pivots](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/assets/142779836/5ef7fb9c-d4c2-4d2a-8518-7471ee4693e7)
+![Pivots](https://github.com/VikasMalik64/Bike_Sales_Project_Excel/blob/4d982ad9547f50038cd65685b8983a65501d22d7/Pivots.jpg)
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and  customizing the pivot charts of corresponding  pivot table.
