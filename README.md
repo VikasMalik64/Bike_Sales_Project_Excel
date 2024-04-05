@@ -35,7 +35,7 @@ Finally, the dashboard was created by inserting and  customizing the pivot chart
 For user friendly and interactive experience  3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel.
-![Dashboard](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/assets/142779836/b5bc2e3b-4b71-42a0-b6fd-59c8b03baaac)
+![Dashboard](https://github.com/VikasMalik64/Bike_Sales_Project_Excel/blob/4702f6efe969cc33e69191b969ff5e8d794b4a02/Dashboard.JPG)
 
 
 ## Insights
